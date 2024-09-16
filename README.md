@@ -1,8 +1,5 @@
 # Taiwan_OSINT_Tools 臺灣公開來源情資工具
 
-:::danger
-請勿濫用本文之工具！！
-:::
 
 ## 綜合網站
 - [Data Station-開放數據](https://www.datastation.org.tw/opendata)
