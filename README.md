@@ -47,6 +47,7 @@
 ### 人文/宗教
 - [宗教地景GIS](https://gisrl.ascdc.sinica.edu.tw/religiontw/)
 ### 國土/環境/地質
+- [地籍圖資網路便民服務系統](https://easymap.land.moi.gov.tw/P02/Index)
 - [內政部地政司 - 新舊地號查詢](https://www.land.moi.gov.tw/chhtml/landnoqry/51)
 - [國土規劃地理資訊系統](https://nsp.tcd.gov.tw/ngis/)
 - [村里街路門牌查詢](https://www.ris.gov.tw/app/portal/3053)
@@ -55,6 +56,12 @@
 - [環境圖資整合應用平臺](https://geoser.moenv.gov.tw/moenvgis/map.html)
 - [活動斷層GIS查詢系統](https://faultgis.gsmma.gov.tw/gis/)
 - [土壤液化潛勢查詢系統](https://www.liquid.net.tw/cgs/public/)
+- 調出任意土地地籍圖與第二類土地謄本：https://blog.gtwang.org/life/online-apply-for-electronic-cadastral-copy-tutorial/
+    - 土地所有權人住址
+    - 姓氏
+    - 身份證前幾碼
+    - 該土地債務抵押狀況
+    - ...
 
 ### 交通
 - [GIS-T 台灣交通網路地理資訊](https://gist.transportdata.tw/gist_web/)
