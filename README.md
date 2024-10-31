@@ -2,15 +2,20 @@
 
 ## Google Dorking 查詢
 ```
-"查詢系統" site:"gov.tw"
-"地理資訊" site:"gov.tw"
-"GIS" site:"gov.tw"
+"查詢系統" site:".tw"
+"地理資訊" site:".tw"
+"GIS" site:".tw"
+"資訊查詢" site:".tw"
 ```
 
 ## 綜合網站
 - [監理服務網- 汽機車](https://www.mvdis.gov.tw/m3-emv/car/index#gsc.tab=0)
 - [Data Station-開放數據](https://www.datastation.org.tw/opendata)
 - [政府資料開放平臺](https://data.gov.tw/)
+- [中華民國地政司](https://www.land.moi.gov.tw/chhtml/link1/42)
+- [外部資訊查詢申辦 – 犯罪被害人保護協會](https://www.avs.org.tw/page/23005)
+- [OpenData專區 - 財團法人金融聯合徵信中心](https://www.jcic.org.tw/main_ch/download_page.aspx?uid=213&pid=213)
+- [後備軍人網路服務台](https://afrc.mnd.gov.tw/EFR/Default.aspx)
 
 ## 找車子/車主
 - [公路監理資料有償利用服務網 - 駕駛人與車輛查詢](https://mvdvan.mvdis.gov.tw/mvdvan/mvdvan)
@@ -21,6 +26,7 @@
         - {vehNumber} = 牌照號碼。
 - [環境部機車定期檢驗資訊管理系統-車籍資料](https://mobile.moenv.gov.tw/Motor/query/Query_Check.aspx)
 - [既有車型編號查詢](https://b2c.vscc.org.tw/CarTypeInformation/CarTypeInformation)
+
 
 ## 影像分析
 - [即時影像監視器](https://tw.live/)
@@ -63,8 +69,31 @@
     - 該土地債務抵押狀況
     - ...
 
-### 交通
+## 交通
 - [GIS-T 台灣交通網路地理資訊](https://gist.transportdata.tw/gist_web/)
+- [新北市即時交通資訊網](https://atis.ntpc.gov.tw/)
+- [桃園市即時交通資訊網](https://tcc.tycg.gov.tw/ATISNew/)
+- [高速公路即時路況](https://1968.freeway.gov.tw/)
+- [高速公路電子收費欠費查詢](https://www.fetc.net.tw/)
+- [桃園機場航班資訊](https://www.taoyuan-airport.com/flight_arrival)
+
+### 乘車/交通工具相關
+- [高鐵悠遊聯名卡電子車票證明查詢系統](https://queryweb.tscc.com.tw/thsrc_web/)
+- [捷運悠遊卡加值證明/搭乘證明/常客累計資訊查詢系統](https://queryweb.tscc.com.tw/mrt_web/)
+- [捷運一卡通加值/搭乘證明/常客累計資訊查詢系統](https://www.i-pass.com.tw/trtc/)
+- [拾得人可領取拾得物資訊查詢](https://web.metro.taipei/losequery2019/querybypicker)
+
+### 交通事故
+- [道路交通事故資料申請系統](https://tm2.npa.gov.tw/NM105-505ClientRWD2/TM02A01Q_01.jsp)
+
+### 網路
+- [行動通訊網路涵蓋資訊查詢](https://www.ncc.gov.tw/chinese/news.aspx?site_content_sn=5678&is_history=0)
+
+
+## 旅遊
+- [導遊＆領隊資訊查詢](https://travelagency.tad.gov.tw/DataQuery/Tour_GuideNow.aspx)
+- [交通部觀光署露營區資訊查詢專區-合法露營場資料查詢](https://camp.tad.gov.tw/CMZ/legal.jsp)
+
 ### 歷史/史地
 - [中研院百年歷史地圖](https://gis.sinica.edu.tw/tileserver)
 - [國史館臺灣文獻館](https://www.th.gov.tw/new_site/01archives/01file_archives/)
@@ -87,9 +116,16 @@
 - [建築工程履歷查詢系統](https://cpabm.cpami.gov.tw/cers/Welcome.do)
 
 ## 環境汙染/毒物
+- [新北市垃圾清運資訊查詢網](https://crd-rubbish.epd.ntpc.gov.tw)
 - [列管污染源資料 (含裁處資訊) 查詢系統](https://prtr.moenv.gov.tw/index.html)
-- [毒性及關注化學物質快速查詢
-](https://www.cha.gov.tw/sp-toch-list-1.html)
+- [毒性及關注化學物質快速查詢](https://www.cha.gov.tw/sp-toch-list-1.html)
+
+## 健康/醫療/急救
+- [全國癌症篩檢活動暨醫療院所資訊查詢](https://escreening.hpa.gov.tw/)
+- [衛生福利部 緊急醫療管理系統](https://ems.mohw.gov.tw/)
+
+## 考試
+- [大學入學考試中心](https://ap.ceec.edu.tw/RegExam/ExamInfo)
 
 ## 學術系統
 - [國科會 - 學術人才查詢](https://arspb.nstc.gov.tw/NSCWebFront/modules/talentSearch/talentSearch.do?action=initSearchList&LANG=ch)
@@ -120,6 +156,3 @@
 
 ## 惡意程式分析
 - [Virus Check](https://viruscheck.tw/)
-
-
-
