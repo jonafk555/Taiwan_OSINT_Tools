@@ -1,17 +1,4 @@
 # Taiwan OSINT tools 臺灣公開來源情資工具
-<style>
-img {
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-  width: 100%;
-  height: auto;
-  max-width: 300px;
-  object-fit: cover;
-}
-</style>
-
-:::spoiler 目錄
-[TOC]
-:::
 
 ## Google Dorking 查詢
 ```
