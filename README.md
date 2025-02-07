@@ -1,7 +1,22 @@
 # Taiwan OSINT tools 臺灣公開來源情資工具
+<style>
+img {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  object-fit: cover;
+}
+</style>
+
+:::spoiler 目錄
+[TOC]
+:::
 
 ## Google Dorking 查詢
 ```
+"地圖" site:".tw"
+"資料庫" site:".tw"
 "查詢系統" site:".tw"
 "地理資訊" site:".tw"
 "GIS" site:".tw"
@@ -9,6 +24,7 @@
 ```
 
 ## 綜合網站
+- [用數據看台灣](https://www.taiwanstat.com/realtime/)
 - [個人化資料自主運用(MyData)](https://mydata.nat.gov.tw/)
 - [監理服務網 - 汽機車](https://www.mvdis.gov.tw/m3-emv/car/index#gsc.tab=0)
 - [Data Station-開放數據](https://www.datastation.org.tw/opendata)
@@ -27,6 +43,10 @@
         - {vehNumber} = 牌照號碼。
 - [環境部機車定期檢驗資訊管理系統-車籍資料](https://mobile.moenv.gov.tw/Motor/query/Query_Check.aspx)
 - [既有車型編號查詢](https://b2c.vscc.org.tw/CarTypeInformation/CarTypeInformation)
+- 車牌影像情資
+    - https://universe.roboflow.com/jackresearch0/taiwan-license-plate-recognition-research-tlprr
+    - https://licenseplatemania.com/landenpaginas/taiwan.htm
+    - https://stat.vin/vin-decoding/taiwan-golden-bee
 
 
 ## 影像分析
@@ -204,6 +224,8 @@
 - [全國法規資料庫](https://law.moj.gov.tw/)
 
 ## 犯罪/偵查/刑事紀錄
+- [2022全國議員候選人犯罪前科大追擊](https://www.tawpa.org/candidates/map)
+- [事故地圖 APP](https://kose.app/)
 - [調查局 - 外逃通緝犯查詢系統](https://www.mjib.gov.tw/Crimes/Crimes_List)
 - [通緝犯資料查詢(公告)平台](https://www.thcw.moj.gov.tw/CriminalWanted/default.html)
 - [非法業者違規記錄查詢](https://agent.wda.gov.tw/agentext/agent/QryOther.jsp)
@@ -220,5 +242,12 @@
 ## 惡意程式分析
 - [Virus Check](https://viruscheck.tw/)
 
+# 其他大神整理的資源
+- https://github.com/paulpogoda/OSINT-Tools-Taiwan
+- https://hackmd.io/@Sean64/OSINT-tw
 
+# 課程資訊
+- 臺灣鑑識科學學會：https://tafs.cid.cpu.edu.tw/
+- 社團法人台灣E化資安分析管理協會：https://www.esam.io/
+- 黑熊學院：https://kuma-academy.org/
 
